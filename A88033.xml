@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to George Keith, concerning his late religious differences with William Pen and his party. By a moderate churchman</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88033</idno><idno type="EEBO-CITATION">99900034</idno>
+  <idno type="VID">137280</idno>
+  <idno type="EEBO-PROQUEST">2240870434</idno>
+  
+            <idno type="STC">Wing L1704A</idno>
+            <idno type="STC">ESTC R231899</idno>
+            <idno type="PROQUEST">99900034</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900034e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2502:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to George Keith, concerning his late religious differences with William Pen and his party. By a moderate churchman</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin :</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2502 cropped, with loss of colophon.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Penn, William, 1644-1718 --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:137280:1"/>
+            <pb n="1" facs="tcp:137280:1"/>
+            <head>A LETTER TO <hi>George Keith.</hi>
+            </head>
+            <head type="sub">Concerning his late Religious Differences with <hi>William Pen</hi> and his Party.</head>
+            <byline>By a moderate Churchman.</byline>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am sorry to hear of Strifes raised amongst Men about Religion, but I must indeed confess, by what I have read on both sides, about the difference betwixt your self and some others, that are Quak<g ref="char:EOLhyphen"/>ers, you do seem to me to have received hard measure from some of your former good Friends and Confidents. Yet if you can Vin<g ref="char:EOLhyphen"/>dicate the Honour of Gods truth in those weighty points (which I find you are engaged for) I think you shall do well to accept of moderate re<g ref="char:EOLhyphen"/>parations from them for the Injuries they have done to your reputation. Tho I cannot say it is your duty, or is prudent, totally to neglect it. For our Estimation is an Instrument necessary to enable us to do good. Your voluntary owning of some oversights of your own, and offering a cor<g ref="char:EOLhyphen"/>rection of them, hath raised my hopes of your sincerity. And I think you did well to use St. <hi>Austin's</hi> and other good examples to encourage your self to it, and to insinuate an excuse for such a singularity to an Age, when hardly any one does so, for want of self denial. And I believe most in<g ref="char:EOLhyphen"/>different Men are of the same opinion with me in this. But in <hi>Tho. Ell<g ref="char:EOLhyphen"/>woods</hi> Nostrils, I find this smells of nothing but Pride and an Ambition, to rank your self among the worthy Antients. When yet he has the Va<g ref="char:EOLhyphen"/>nity to set off that little peice of his own, with the Glorious. Title [of truth defended]. As if truth was so destitute in this Age of able Friends, that it could need such defenders as he, or had such inconsiderable op<g ref="char:EOLhyphen"/>posers, that he could be of any use for it's defence. Who writes at such a rate, as if really he did not understand the true requisites of a valid Argument, much less the just evidence of any point in Religion. For in his Book he hath subverted the Foundation of Christian Religion and knew not, what he was doing. So that this Man plainly Titles his Book by an <hi>Antiphrasis,</hi> and might as well have called it. The Learned discreet work of
+<pb n="2" facs="tcp:137280:2"/>
+               <hi>Tho. Ellwood,</hi> as truth defended. But Sir, you need not fear that disinter<g ref="char:EOLhyphen"/>ested Men will behold your endeavours to rectify such mistakes, as you have observed in your own Books, with the squinting of this Mans Eyes, who hath thus impotently traduced your honest intentions. In your nar<g ref="char:EOLhyphen"/>rative of the proceedings at <hi>Turners-Hall,</hi> you seem to me beyond rea<g ref="char:EOLhyphen"/>sonable contradiction to have made good your charge of dangerous er<g ref="char:EOLhyphen"/>rours, exhibited formerly against some Quakers. Who have denied both the Divinity, and especially the Manhood of our Saviour, and the Resurrection. And their seeming confessions of these, seem to me rather Collusive then sincere, having observed that they make them always in expressions of studied ambiguity and exquisite obscurity. But when they deliver their sense freely about the light within, they clearly set it up above Jesus of <hi>Nazareth,</hi> making him but an underling to it. Take one example for a pattern of the rest (extracted out of <hi>G. Whitehead</hi> and <hi>W. Pen</hi> by <hi>Tho. Ellwood.</hi> Post-script to truth defended <hi>p.</hi> 167.) in <hi>W. Pens</hi> Christian Quaker, <hi>p.</hi> 104. <q>We do confess, that tho the Eternal Power, Life and Light, which Inhabited that holy person which was Born at <hi>Nazareth,</hi> was and is eminently and chiefly the Saviour (for there is no Saviour besides me, said God; <hi>Hos.</hi> 13.4.) Yet it was instrumentally a Saviour, as prepared and chosen for the work, which Christ had then to do in it. Which was actually the salvation of some, and intention<g ref="char:EOLhyphen"/>ally of the whole World.</q> This passage I also find quoted in the Answer to <hi>W. P</hi>'s Key, printed a year ago, and there remarked upon. But I would only observe, 1. That in it <hi>W. Pen</hi> and his Trusty Esq; <hi>T. Elwood</hi> are agreed (for making this Doctrine more passable) to contradict Two Evangelists and One Prophet. For whereas they agree, that Jesus was born at <hi>Bethlehem,</hi> these two infallibly do witness that he was born at <hi>Nazareth.</hi> That the Authority of the Scripture being abated, they might authoritatively teach, That there is, 1. <hi>The</hi> Saviour (that is Christ) and <hi>A</hi> Saviour. The one the Chief and Eminent Saviour, the other an Instrumental Saviour. The one the Eternal Light (and therefore must be the same with these <hi>Quakers Light in the Conscience</hi>) and the other the Holy Person, Jesus of <hi>Nazareth.</hi> And since <hi>The Saviour</hi> is Christ, and Jesus of <hi>Nazareth</hi> here asserted to be a Per<g ref="char:EOLhyphen"/>son, and no more but an Instrumental Saviour, as prepared for Christ's do<g ref="char:EOLhyphen"/>ing of his work; such a Person being the Instrument of the Saviour, is no<g ref="char:EOLhyphen"/>thing else but the Servant of Christ. Therefore Jesus of <hi>Nazareth,</hi> the In<g ref="char:EOLhyphen"/>strumental Saviour, is really the Servant of Christ, but is not Christ him<g ref="char:EOLhyphen"/>self. And tho the Scripture every where teaches, <hi>that Jesus is the Christ,</hi> and not the Servant of <hi>Christ,</hi> yet they will have the Light of the <hi>Living Spirit</hi> to contradict what they call the <hi>Killing Letter.</hi> For being before preferred above 2 or 3, it may with as much reason be preferred before all the holy Pen<g ref="char:EOLhyphen"/>men of the Scripture. All <hi>T. Elwood</hi>'s other Quotations are calculated for to agree with this Doctrine, and are punctually co-incident with it. Neither is it either expresly, or by consequence, any where disallowed in these mens Books. I mean in all that I have read, that are several. When therefore, Sir, you charge <hi>W. Pen</hi> with Antichristian Doctrine, and denying the Manhood
+<pb n="3" facs="tcp:137280:2"/>of Christ, here you have him <hi>confitentem Reum,</hi> and <hi>T. Elwood</hi> too, who is so much his Eccho, that if he pleases to say it, he must repeat it, be it never so faulty. I know I should not have thus pressed <hi>W. Pen,</hi> whom alas! you, and the Gentleman that answered his <hi>Key,</hi> upon different Principles, have loaded with a greater burden than he can bear or cast off. But I could not but observe what a wife Ad<g ref="char:EOLhyphen"/>vocate is <hi>T. Elwood,</hi> who would justify <hi>W. Pen</hi> by such quotations which infallibly condemn him as guilty of the Crime which you and the foresaid Writer charge him withal.</p>
+            <p>The case betwixt you and your opposers, I conceive in short stands thus. Your ten Principles being represented to the yearly Meeting here as carnal (that is as contrary to the Spirit of Christianity) by some <hi>Pensilvanians,</hi> justify you against all your Adversaries both here and there For those Principles being the very truth, if the yearly Meeting disowns them in favour of the <hi>Pensilvani<g ref="char:EOLhyphen"/>ans,</hi> they disown Christianity it self; for they are so necessary, that if they be not upheld, the whole Faith of Christ falls with them. Wherefore if this be the real case, your contentiousness (as they call it) is nothing but contending for the faith delivered to the Saints, for which we ought to contend, and resist (if oc<g ref="char:EOLhyphen"/>casion be) even unto Death, and to give way, no not for an hour, to all the Au<g ref="char:EOLhyphen"/>thority on Earth that gainsays it. But if they own the truth of your princi<g ref="char:EOLhyphen"/>ples, since the <hi>Pensilvanians</hi> did complain to the Meeting, and accused before them the Carnality of your Principles. They hearing them (as Judges by refer<g ref="char:EOLhyphen"/>ence) ought to have vindicated the confessed truth of God from so foul an as<g ref="char:EOLhyphen"/>persion, and commended you for your indefatigable labour and diligence in op<g ref="char:EOLhyphen"/>posing so vile Heresies. But not having done this, but on the contrary having Excommunicated you, for your pertinacious resolute withstanding their Blas<g ref="char:EOLhyphen"/>pheming Gods most sacred truth, have in Consequence, knowingly cut off them<g ref="char:EOLhyphen"/>selves from all true Christians, and cast you out for being <hi>obstinately</hi> a Christi<g ref="char:EOLhyphen"/>an. If part of the Meeting did believe your Principles, part not, but yet did both sorts joyn together to obstruct and frustrate your indeavours to suppress the errors and clear the truth, lest otherwise they should disoblige great Num<g ref="char:EOLhyphen"/>bers of Quakers already ingaged in those errors, and make or occasion a rupture, The Meeting then becomes nothing but a Politick Combination of wickedness, strengthening it self by betraying the truth, and oppressing the hearty Friends of it. If they alledge, they not knowing, whether your Principles were true or false, and therefore they could not justify them, or you in the defence of them, but onely consult for the Peace and Concord of the fraternity, it is plain how<g ref="char:EOLhyphen"/>ever, yours being the very principles of the Doctrine of Christ, that such a plea of such ignorance does instantly devest them of all the Authority of a Church Meeting. For should all the Quakers in the World delegate Men of such pro<g ref="char:EOLhyphen"/>fessed ignorance, that could no more make them an Ecclesiastical Council, then the <hi>Londoners</hi> by an election, can make the Lord Majors Horse his Lordships successor in his office next year. Such Men must leave the chair of <hi>Teachers,</hi> and sit in the seat of Learners. Besides, such Ignorance offered in excuse for their not justi<g ref="char:EOLhyphen"/>fying your Principles, makes them guilty of temerariousness in condemning you, for your vigorous defending them. Put the case therefore how they please, if they Condemn not your Principles (as they cannot, if they be Christians) their sentence Condemns not you, but themselves. This I observe of the merits of
+<pb n="2" facs="tcp:137280:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:137280:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:137280:4"/>former yearly Meeting required you to cease opposing those that imputed Car<g ref="char:EOLhyphen"/>nality to your Principles (&amp; complained to the next Meeting against you) as like<g ref="char:EOLhyphen"/>wise to call in your Books, The next Meeting Excommunicated you for not doing accordingly. If this Meeting required this of you, by way of Command, and not of advice barely. They arrogated to themselves a power above all Ecclesiastical Autho<g ref="char:EOLhyphen"/>rity not enforced by the civil Power. (As the Quakers in <hi>England</hi> is not) For whoe<g ref="char:EOLhyphen"/>ver, be they Quakers, Anabaptits, Presbyterians, or others, do claim such a Jurisdiction, they have laid in their Church the corner stone of the <hi>Rom<g ref="char:EOLhyphen"/>ish</hi> Papacy, and want nothing but power and time to finish the structure. Witness your usage in <hi>Pensilvania.</hi> If what they did impose upon you by such command, had had no evil in it (as we have seen it had) you ought not to have obeyed, but to have testified against the usurpation and arrogance. Yea, if the thing commanded had been good (as it was not) you ought not to have done it but with a Protestation against the incroachment, and a <hi>Salvo</hi> for your subsequent liberty. And if they refuse you this, or complain of you for using it, they Act proudly and insolently. If they pre<g ref="char:EOLhyphen"/>tended not to command, but onely advise and admonish, then because all advice is for the benefit of the person advised, you being the advised person, are in the nature of the thing necessarily made the Judge. If therefore upon due examination, you find the thing advised serves the interest of the Advisers, but is prejudicial to your own, you are not to think it counsel, or advice, but flattering insinuation, or at least a suspicious design upon you, if you find the advantage of the advisers is conspicuous, but your own undiscernable, whatever Authority they may pretend to, it is a Let<g ref="char:EOLhyphen"/>ter of request, or Petition of Beggart. Which if you find importune, you may re<g ref="char:EOLhyphen"/>ject. If this offend them, they imitate the example of the ill bred surly Beggars, that curse them, that find it not convenient to give them the Alms they ask. If you find that it makes for both the good of them and your self, embrace it gladly, if the ad<g ref="char:EOLhyphen"/>vice makes more for yours then theirs, accept it with all thankfulness, as a friendly office. But if you do not do this, they must be sorry for you, but not offended with you, or reproach you, so much have these people mistaken their own power. By these hints you may see, whether or no they really intended that for a command, which yet to decline the invidiousness of a prosessed Lording it over others, they more gently stiled friendly Connsel. For if they grew offended with you, if they expel you out of their Company, if they account you peevish, testy, froward, proud, self-willed for not following their Counsel, but using of their own, what ever they call it, they use it to impose a yoak of Bondage upon you; and think you do them an injury, because you will not be their slave. If you prove still, if you be refractory to them in such a case, it's onely a sign you are made of good metal, and understand better, what to do with your liberty then to pass it away in a Complement to such Mens imperious humours. But if on the other hand, they sincerely offered it as friend<g ref="char:EOLhyphen"/>ly advice, then it is plain, if you have as much good will and skill, you have as full power, right, and Authority to advise and admonish them, as all the Meeting hath to advise you. And therefore they cannot accuse you as a self-pleaser, proud, or conten<g ref="char:EOLhyphen"/>tious for refusing their advice, until they have hearkened first to your advice given them, to suppress effectually the <hi>Pensilvanian</hi> Heresy; charging Carnality upon the Christian Doctrine. And when they have set you this pattern of taking good advice, then (but not till then) they may think of accusing you, but this will take away the matter of their Accusation against you, and so leave you innocent. That is, as I said before, their Condemnation of you, as they have mannaged, the matter is really your Justification, but their own Condemnation. When therefore they reproach you, as touchy, petulant, froward, haughty, proud, contumacious, cross, refractory, they do but whip their own faults upon your Back. These thoughts I have sent you, that you may see indifferent persons are not all just of <hi>Tho. Ellwoods</hi> mind, and <hi>G. White<g ref="char:EOLhyphen"/>heads</hi> concerning your case, desiring your pardon for so long a Letter, of your Hum<g ref="char:EOLhyphen"/>ble Servant.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137280:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
